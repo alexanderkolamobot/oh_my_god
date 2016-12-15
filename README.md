@@ -1,1 +1,3 @@
-"# oh_my_god"
+@ECHO OFF
+ECHO Hello world!
+ECHO ON
